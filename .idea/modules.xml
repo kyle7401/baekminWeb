@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/baekmin.iml" filepath="$PROJECT_DIR$/.idea/baekmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baekmin.iml" filepath="$PROJECT_DIR$/.idea/modules/baekmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baekmin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/baekmin_main.iml" group="baekmin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baekmin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/baekmin_test.iml" group="baekmin" />
+    </modules>
+  </component>
+</project>

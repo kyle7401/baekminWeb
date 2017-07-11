@@ -1,0 +1,4 @@
+@CHARSET "UTF-8";
+
+div.message { background: none;padding-left: 0; width: 100%;background-color: #f4f4f4; overflow: hidden;}
+div.error {background: none; border: none;color: #ff0000; margin-left: 115px;background-color: #fafafa; width: 335px; padding: 5px; padding-top: 0;}
